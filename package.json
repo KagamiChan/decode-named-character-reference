@@ -35,7 +35,8 @@
       "react-native": "./index.js",
       "worker": "./index.js",
       "browser": "./index.dom.js",
-      "default": "./index.js"
+      "default": "./index.js",
+      "edge-light": "./index.js"
     }
   },
   "dependencies": {
